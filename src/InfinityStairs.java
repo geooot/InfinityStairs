@@ -13,7 +13,7 @@ public class InfinityStairs
 
 		trafficLight.setVisible(true);
 		trafficLight.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		trafficLight.setSize(600,1040);
+		trafficLight.setSize(600/2,1040/2);
 
 	}
 }
