@@ -1,8 +1,8 @@
 # InfinityStairs
 
-<div style="text-align:center">
+<p align="center">
 <img src="http://i.imgur.com/2S2q6oM.png" alt="InfinityStairs" />
-</div>
+</p>
 </br>
  A little game I made for my 9th grade CS1 project. Based on the android game, Infinite Stairs
 
